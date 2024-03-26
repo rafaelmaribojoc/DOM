@@ -1,2 +1,2 @@
 # DOM
-Document Object Manipulation
+Document Object Model
